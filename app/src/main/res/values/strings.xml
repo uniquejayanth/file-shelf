@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">File Shelf</string>
+    <string name="your_shelf">Your Shelf</string>
+    <string name="by_essentialist">By Jayanth Kumar (essentialist)</string>
+    <string name="sd_card">SD card</string>
+    <string name="about">About</string>
+    <string name="more">More</string>
+    <string name="internal">Internal</string>
+    <string name="home">Home</string>
+    <string name="Open_Drawer">Open Navigation Drawer</string>
+    <string name="Close_Drawer">Close Navigation Drawer</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="Home_Fragment">Home Fragment</string>
+</resources>
